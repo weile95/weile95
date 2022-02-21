@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Vio. 
+### Hi there 👋 
 
    🌱 <b> Junior QA (Game dev)
            
