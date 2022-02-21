@@ -1,13 +1,17 @@
-### Hi there 👋
+### Hi there 👋 My name is Vio. 
 
-   🌱 <b> I’m currently learning software testing</b>:  
-          - Testing methodology;  
-          - Types of documentation;  
-         -  Principles of testing documentation;  
-         -  Functional and non-functional testing;  
-         -  Bug tracking system (Jira).  
+   🌱 <b> Working in gamedev company as Junior QA
            
-🤔   <b>I’m looking for help with manual testing </b> 
+🤔   <b> Working with: </b>:  
+         - Functional "Gray box" testing;
+         - Non-functional testing;
+         - Regression testing;
+         - Perfomance testing;
+         - UI testing;
+         - Compliance testing for Xbox;
+         - Creating test-cases and check-lists
+         - Xbox, PS, PC(Steam, EGS) platforms
+</b> 
   
 📫   <b>How to reach me:kleshnina.violetta@gmail.com.
 
