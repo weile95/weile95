@@ -3,14 +3,14 @@
    🌱 <b> Junior QA (Game dev)
            
 🤔   <b> Working with: </b>:  
-         - Functional "Gray box" testing;
-         - Non-functional testing;
-         - Regression testing;
-         - Perfomance testing;
-         - UI testing;
-         - Compliance testing for Xbox;
-         - Creating test-cases and check-lists
-         - Xbox, PS, PC(Steam, EGS) platforms
+         <p> - Functional "Gray box" testing;</p>
+         <p>- Non-functional testing;</p>
+         <p>- Regression testing;</p>
+         <p>- Perfomance testing;</p>
+        <p> - UI testing;</p>
+        <p> - Compliance testing for Xbox;</p>
+        <p> - Creating test-cases and check-lists;</p>
+        <p> - Xbox, PS, PC(Steam, EGS) platforms</p>
 </b> 
   
 📫   <b>How to reach me:kleshnina.violetta@gmail.com.
