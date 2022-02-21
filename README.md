@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Vio. 
 
-   🌱 <b> Working in gamedev company as Junior QA
+   🌱 <b> Junior QA (Game dev)
            
 🤔   <b> Working with: </b>:  
          - Functional "Gray box" testing;
